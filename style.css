@@ -57,7 +57,7 @@
 .button:hover {
   color: var(--dl-color-gray-white);
   border-color: var(--dl-color-pallet-yellow);
-  background-color: var(--dl-color-pallet-yellow);
+  background-color: var(--dl-color-pallet-red);
 }
 .input {
   color: var(--dl-color-gray-white);
@@ -121,7 +121,7 @@
   text-decoration: none;
 }
 .navbar-link:hover {
-  color: var(--dl-color-pallet-yellow);
+  color: var(--dl-color-pallet-red);
 }
 .navbar-logo-title {
   color: var(--dl-color-gray-black);
@@ -138,7 +138,7 @@
   text-decoration: none;
 }
 .navbar-logo-title:hover {
-  color: rgba(239, 193, 76, 1);
+  color: rgb(255, 0, 0);
 }
 .Heading-3 {
   font-size: 24px;
