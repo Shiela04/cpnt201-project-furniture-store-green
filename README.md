@@ -37,6 +37,25 @@ We welcome contributions to improve this app. To contribute:
 - Push to the branch (git push origin feature/new-feature).
 - Open a Pull Request.
 
+## CREDITS & REFERENCES
+
+<https://play.teleporthq.io/>
+
+## Stock Photos
+
+<https://unsplash.com/>
+<https://www.freepik.com/>
+<https://www.pexels.com/>
+
+## Fonts
+
+Google fonts
+<https://fonts.google.com/>
+
+## Icons
+
+<https://icon-sets.iconify.design/>
+
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
